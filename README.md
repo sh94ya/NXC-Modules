@@ -8,4 +8,7 @@ Other modules for NetExec
 2. **telegram.py**
    *Description:* Stealing Telegram Desktop tdata to hijack a user's session.
    *Reference:* https://github.com/CICADA8-Research/Penetration/tree/main/nxc%20modules
+3. **yandex.py**
+   *Description:* Stealing creds from Yandex Browser.
+   *Reference:* https://github.com/voixe852/nxc_module_yandex
    
