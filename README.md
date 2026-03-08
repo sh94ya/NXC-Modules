@@ -32,8 +32,10 @@ If you have nxc installed via pipx, then put the modules on the path<br>
    ```bash
    nxc smb 10.0.0.5 -u 'user' -p 'password' -M yandex
    ```
-   *Reference:* https://github.com/voixe852/nxc_module_yandex
-5. **restrictedadmin.py**<br>
+   *References:*<br>
+   https://github.com/Moghees244<br>
+   https://github.com/voixe852/nxc_module_yandex
+6. **restrictedadmin.py**<br>
    *Description:*  This module is designed to perform three main actions on a registry key: "DisableRestrictedAdmin". This key manages Windows "Restricted Admin" protection. If this protection is enabled, it is possible to perform Pass-The-Hash (PTH) on     the RDP protocol, particularly with xfreerdp, as Windows uses the NTLM hash for authentication.<br>
    *Example:*
    ```bash
