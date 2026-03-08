@@ -12,7 +12,9 @@ If you have nxc installed via pipx, then put the modules on the path<br>
    ```bash
    nxc smb 10.0.0.5 -u 'user' -p 'password' -M psexec_noinstall
    ```
-    *Reference:* https://github.com/MzHmO/psexec_noinstall
+    *References:*<br>
+    https://github.com/MzHmO/psexec_noinstall<br>
+    https://github.com/beaverdreamer/nxc-modules
 2. **telegram.py**<br>
    *Description:* Stealing Telegram Desktop tdata to hijack a user's session.<br>
    *Example:*
