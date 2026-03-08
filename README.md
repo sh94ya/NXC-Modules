@@ -1,6 +1,7 @@
 ![Supported Python versions](https://img.shields.io/badge/python-3.10+-blue.svg)
 
-# NetExec Modules
+
+# ![NetExec](https://www.netexec.wiki/~gitbook/image?url=https%3A%2F%2F361548579-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Fb0qbsNvsXjRTsQcNipGM%252Ficon%252FCWwWhqfriKvcP0BurUrv%252FNetExec-Favicon1.2C.png%3Falt%3Dmedia%26token%3Deaac3367-ae71-46ce-9e83-229e9e195a87&width=48&height=48&sign=2657d1f0&sv=2) [NetExec](https://github.com/Pennyw0rth/NetExec) Modules
 Custom  modules for NetExec from various authors
 
 ## Installation
