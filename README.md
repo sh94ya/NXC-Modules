@@ -1,7 +1,11 @@
-# NXC-Modules
-Other modules for NetExec
+# NetExec Modules
+Other modules for NetExec from various authors
 
+## Installation
+If you have nxc installed via pipx, then put the modules on the path<br>
+`~/.local/pipx/venvs/netexec/lib/python3.13/site-packages/nxc/modules/`
 
+## List of modules
 1. **psexec_noinstall.py**<br>
     *Description:* Using psexec_noinstall, it is possible to connect to this pipeline as any low-privileged user, since the DACL of the pipeline allows this.<br>
     *Example:*
