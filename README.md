@@ -1,3 +1,5 @@
+![Supported Python versions](https://img.shields.io/badge/python-3.10+-blue.svg)
+
 # NetExec Modules
 Custom  modules for NetExec from various authors
 
