@@ -1,5 +1,5 @@
 # NetExec Modules
-Other modules for NetExec from various authors
+Custom  modules for NetExec from various authors
 
 ## Installation
 If you have nxc installed via pipx, then put the modules on the path<br>
