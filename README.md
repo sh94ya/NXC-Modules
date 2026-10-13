@@ -58,4 +58,17 @@ If you have nxc installed via pipx, then put the modules on the path<br>
    nxc smb 10.0.0.5 -u 'user' -p 'password' -M restrictedadmin -o ACTION=disable
    ```
    *Reference:* https://github.com/Anh4ckin3/nxc-module-personal-repo
+6. **linux_privesc_enum.py**<br>
+   *Description:* A module that searches for privilege escalation vectors on a Linux host via SSH.<br>
+   *Example:*
+   ```bash
+   #Classic Scan
+   nxc ssh 10.0.0.6 -u user -p password -M linux_privesc_enum
+   ```
+   With ACTION
+   ```bash
+   #Deep Scan
+   nxc ssh 10.0.0.6 -u user -p pass -M linux_privesc_enum -o DEEP=true VERBOSE=true
+   ```
+   *Reference:* https://github.com/tarxtuga/nxc_linux_privesc
    
