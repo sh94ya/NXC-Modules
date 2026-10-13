@@ -10,7 +10,7 @@ Custom  modules for NetExec from various authors
 
 ## Installation
 If you have nxc installed via pipx, then put the modules on the path<br>
-`~/.local/pipx/venvs/netexec/lib/python3.13/site-packages/nxc/modules/`
+`~/.local/pipx/venvs/netexec/lib/python3.x/site-packages/nxc/modules/`
 
 ## List of modules
 1. **psexec_noinstall.py**<br>
