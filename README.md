@@ -6,7 +6,7 @@
   <br><br>
   <h1><a href="https://github.com/Pennyw0rth/NetExec">NetExec</a> Modules</h1>
 </p>
-Custom  modules for NetExec from various authors
+Custom NetExec  modules from various authors.
 
 ## Installation
 If you have nxc installed via pipx, then put the modules on the path<br>
